@@ -26,16 +26,4 @@ Link to Assignemt: https://1drv.ms/w/s!Ap4JPbfie2zTg7I12fy6V3s3fmqqVw?e=MxFjr1
 6. Create a Feature Branch e.g. "Code_Standards" - One User Per Section
 7. Add Content to Feature Branch - Everyone
 8. Stage and Commit Changes Made (Do Not Forget Comments) - Everyone
-9. Push Changes to **Fork** - Everyone
 
-<br>
-
-### Useful Links for GitFlow: 
-
-<br>
-
-Setup: https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/1-setup.md
-
-<br>
-
-Feature Branches: https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/2-feature-branches.md
